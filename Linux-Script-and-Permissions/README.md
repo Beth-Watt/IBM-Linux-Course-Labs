@@ -28,7 +28,7 @@ First attempt at `chmod` failed because there was no space between
 ## Screenshots
 
 ### The Script
-![Linux Script Lab](1_Linux_Script_Lab.png)
+![Linux Script Lab](1%20Linux%20Script%20Lab.png)
 
 ### Permissions and Running the Script
-![Script Permissions Lab](2_Script_Permissions_Lab.png)
+![Script Permissions Lab](2%20Script%20Permissions%20Lab.png)
