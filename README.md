@@ -1,4 +1,4 @@
-# IBM Hands On Linux Course Labs
+# Script Permissions & chmod
 
 A collection of labs and scripts completed during the IBM Hands On Linux Course. Each lab folder contains scripts, screenshots, and notes documenting my progress and troubleshooting process.
 
