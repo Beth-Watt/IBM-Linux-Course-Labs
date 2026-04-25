@@ -9,6 +9,7 @@ what I learned and any troubleshooting I worked through.
 - [Conditional Statements](Conditional-Statements/)
 - [Mathematical Calculations](Mathematical-Calculations/)
 - [Arrays and For Loops](Arrays-and-For-Loops/)
+- [Linux Script and Permissions](Linux-Script-and-Permissions/)
 
 ## Tools Used
 - Bash scripting
