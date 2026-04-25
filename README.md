@@ -10,6 +10,7 @@ what I learned and any troubleshooting I worked through.
 - [Mathematical Calculations](Mathematical-Calculations/)
 - [Arrays and For Loops](Arrays-and-For-Loops/)
 - [Linux Script and Permissions](Linux-Script-and-Permissions/)
+- [Cron Jobs](Cron_Jobs/)
 
 ## Tools Used
 - Bash scripting
