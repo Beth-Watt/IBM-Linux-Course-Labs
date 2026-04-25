@@ -1,16 +1,17 @@
-# Script Permissions & chmod
+# IBM Linux Course Labs
 
-A collection of labs and scripts completed during the IBM Hands On Linux Course. Each lab folder contains scripts, screenshots, and notes documenting my progress and troubleshooting process.
+A collection of hands-on labs completed as part of my IBM Linux 
+training on Coursera. Each lab includes screenshots and notes on 
+what I learned and any troubleshooting I worked through.
 
-## Labs Completed
-- ✅ Lab 1 - Bash Script (Greeting Script) and Script Permissions
+## Labs
 
-## Skills Being Developed
-- Bash scripting
-- File permissions & chmod
-- Linux command line navigation
-- Troubleshooting & error resolution
+- [Conditional Statements](Conditional-Statements/)
+- [Mathematical Calculations](Mathematical-Calculations/)
+- [Arrays and For Loops](Arrays-and-For-Loops/)
 
 ## Tools Used
-- Linux terminal
-- Bash
+- Bash scripting
+- GNU nano
+- Linux terminal (Theia cloud environment)
+- GitHub for version control and documentation
