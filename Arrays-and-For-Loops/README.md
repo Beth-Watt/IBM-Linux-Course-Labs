@@ -30,7 +30,7 @@ file path and array syntax.
 ![Array Script 1](Array1.png)
 
 ### Downloading and Fixing the CSV
-![Download CSV](Download_CSV.png)
+![Download CSV](Download%20CSV.png)
 
 ### Updated Script with Fix
 ![CSV Bash Script](CSVBashScript.png)
