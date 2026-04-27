@@ -47,8 +47,7 @@ This project came with its share of debugging challenges:
 - Bash scripting
 - Claude AI for troubleshooting, debugging, and guidance throughout the project
 
-## Final Score
-19/20 (95%) - Legendary Performance! 🏆
+
 
 ## Final Score
 19/20 (95%) - Legendary Performance! 🏆
