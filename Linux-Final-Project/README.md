@@ -17,6 +17,23 @@ IBM Hands-On Linux course.
 bash backup.sh target_directory destination_directory
 ```
 
+## Proof of Outcomes
+
+### Backup Permissions
+![Backup Permissions](Backup%20Permissions.png)
+
+### Backup File Check
+![Backup File Check](Backup%20File%20Check.png)
+
+### Backup Script Copy
+![Backup Script Copy](Backup%20Script%20Copy.png)
+
+### Crontab Schedule
+![Crontab Schedule](Crontab%20Schedule.png)
+
+### Files in Directory
+![Files in Directory](Files%20in%20Directory.png)
+
 ## Challenges & Problem Solving
 This project came with its share of debugging challenges:
 - Encountered syntax errors from mixed use of backticks and $() for command substitution
@@ -29,6 +46,9 @@ This project came with its share of debugging challenges:
 - Linux terminal (Theia Lab environment)
 - Bash scripting
 - Claude AI for troubleshooting, debugging, and guidance throughout the project
+
+## Final Score
+19/20 (95%) - Legendary Performance! 🏆
 
 ## Final Score
 19/20 (95%) - Legendary Performance! 🏆
