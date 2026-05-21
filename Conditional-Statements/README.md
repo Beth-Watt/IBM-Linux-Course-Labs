@@ -15,13 +15,10 @@ a y or n answer. Depending on what you enter, it gives a different response.
 Ran into a syntax error on the first try — turns out I was missing 
 a `then` after the `elif` line. Once that was added it ran perfectly.
 
-## Screenshots
-
-### Writing the Script
-![Bash Script](BashScripting1.png)
-
-### Fixing the Syntax Error
-![Bash Script Updated](BashScripting2_addthen.png)
+## Files in This Folder
+- `Bash-Scripting-1.sh` — initial conditions script
+- `Bash-Scripting-2-addthen.sh` — updated version with corrected syntax
+- -`RunBashScript2-terminal-output.png` — terminal output showing successful execution after debugging
 
 ### Running It Successfully
 ![Running the Script](RunBashScript2.png)
