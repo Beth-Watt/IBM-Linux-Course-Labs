@@ -25,10 +25,9 @@ execute permissions for the owner and others, ending up with
 First attempt at `chmod` failed because there was no space between 
 `o+x` and the filename — a small but important syntax detail.
 
-## Screenshots
-
-### The Script
-![Linux Script Lab](1%20Linux%20Script%20Lab.png)
+## What is in the Folder
+- `Linux-Script-and-Permissions-1.sh` — bash script that prompts for first and last name and prints a greeting
+- `2Script Permissions Lab.png` — terminal output showing chmod permissions and successful script execution
 
 ### Permissions and Running the Script
 ![Script Permissions Lab](2%20Script%20Permissions%20Lab.png)
