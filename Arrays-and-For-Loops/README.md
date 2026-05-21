@@ -24,13 +24,12 @@ I also used Claude AI to help troubleshoot some of the errors along
 the way, which helped me understand what was going wrong with the 
 file path and array syntax.
 
-## Screenshots
-
-### First Draft of the Script
-![Array Script 1](Array1.png)
+## Files in This Folder
+- `CSV-Bash-Script-1.sh` — first draft of arrays/CSV parsing script
+- `CSV-Bash-Script-2.sh` — updated version with corrected file path
+-  `Run-CSV.png` — terminal output showing successful execution
 
 ### Downloading and Fixing the CSV
-![Download CSV](Download%20CSV.png)
+![Run-CSV](Download%20CSV.png)
 
-### Updated Script with Fix
-![CSV Bash Script](CSVBashScript.png)
+
