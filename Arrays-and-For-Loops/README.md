@@ -29,7 +29,7 @@ file path and array syntax.
 - `CSV-Bash-Script-2.sh` — updated version with corrected file path
 -  `Run-CSV.png` — terminal output showing successful execution
 
-### Downloading and Fixing the CSV
-![Run-CSV](Download%20CSV.png)
+### Output
+![Run CS Output](Run-CSV.png)
 
 
