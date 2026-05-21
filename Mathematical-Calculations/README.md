@@ -20,19 +20,16 @@ was less than, equal to, or greater than the product. Got a syntax
 error near `fi` on the first try but fixed it and the full script 
 ran successfully. I needed to add the `then` statement after the `elif` but before `fi`.
 
-## Screenshots
-
-### First Draft of the Script
-![Mathematical Bash 1](MathematicalBash1.png)
-
-### Fixing the Typos
-![Mathematical Bash 2](MathematicalBash2.png)
+## Files in this Folder
+- `Mathematial-Script-1-errors.sh` — first draft with typos
+- `Mathematical-Script-2-error.sh` — still errors, added comparison logic
+- `Mathematical-Script-3-errors-fixed.sh  ` — final working version
+- `MathematicalScriptRun1.png` — first successful run output
+- `MathematicalScriptRun2.png` — final run with comparison logic
 
 ### First Successful Run
 ![Script Run 1](MathematicalScriptRun1.png)
 
-### Adding the Comparison Logic
-![Mathematical Bash 3](MathematicalBash3SynError.png)
 
 ### Final Successful Run
 ![Script Run 2](MathematicalScriptRun2.png)
