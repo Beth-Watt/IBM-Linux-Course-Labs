@@ -45,7 +45,7 @@ This project came with its share of debugging challenges:
 ## Tools Used
 - Linux terminal (Theia Lab environment)
 - Bash scripting
-- Used Claude AI as a troubleshooting and learning resource
+-Debugged syntax errors and hidden character issues through research and iterative testing
 
 
 
