@@ -16,4 +16,3 @@ what I learned and any troubleshooting I worked through.
 - GNU nano
 - Linux terminal (Theia cloud environment)
 - GitHub for version control and documentation
-- Claude AI for troubleshooting and debugging
