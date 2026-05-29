@@ -20,9 +20,7 @@ Once the file path issue was sorted out (the script was referencing
 `./arrays_table.csv` but needed just `arrays_table.csv`), the script 
 ran and displayed the first column correctly — outputting `1 4 7 10`.
 
-I also used Claude AI to help troubleshoot some of the errors along 
-the way, which helped me understand what was going wrong with the 
-file path and array syntax.
+Debugged file path and array syntax errors through research and iterative testing, developing a clearer understanding of how Bash handles both.
 
 ## Files in This Folder
 - `CSV-Bash-Script-1.sh` — first draft of arrays/CSV parsing script
