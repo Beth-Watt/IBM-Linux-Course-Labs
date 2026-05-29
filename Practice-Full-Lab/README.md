@@ -1,7 +1,7 @@
 # Practice Full Lab – Weather Forecasting & Bash Scripting
 
 ## Overview
-This full lab covers two parts: setting up a weather log from the command line, and iteratively building Bash scripts to extract live weather data, compute forecast accuracy, and calculate weekly statistics. All work was completed in the Theia IDE on a Linux terminal. Troubleshooting script errors and working through data limitations to complete the weekly statistics portion were the primary challenges of this lab.**
+This full lab covers two parts: setting up a weather log from the command line, and iteratively building Bash scripts to extract live weather data, compute forecast accuracy, and calculate weekly statistics. All work was completed in the Theia IDE on a Linux terminal. Troubleshooting script errors and working through data limitations to complete the weekly statistics portion were the primary challenges of this lab.
 
 ---
 
