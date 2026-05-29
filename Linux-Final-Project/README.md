@@ -45,7 +45,8 @@ This project came with its share of debugging challenges:
 ## Tools Used
 - Linux terminal (Theia Lab environment)
 - Bash scripting
- -Debugged syntax errors and hidden character issues through research and iterative testing
+- Debugged syntax errors and hidden character issues through research and iterative testing
+  
 
 
 
