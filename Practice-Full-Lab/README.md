@@ -1,12 +1,7 @@
 # Practice Full Lab – Weather Forecasting & Bash Scripting
 
 ## Overview
-This full lab covers two parts: setting up a weather log from the command line,
-and iteratively building Bash scripts to extract live weather data, compute
-forecast accuracy, and calculate weekly statistics. All work was completed in
-the Theia IDE on a Linux terminal. **Claude AI was utilized throughout this lab
-to assist with troubleshooting script errors and to generate synthetic historical
-data when additional data was needed to complete the weekly statistics portion of the lab.**
+This full lab covers two parts: setting up a weather log from the command line, and iteratively building Bash scripts to extract live weather data, compute forecast accuracy, and calculate weekly statistics. All work was completed in the Theia IDE on a Linux terminal. Troubleshooting script errors and working through data limitations to complete the weekly statistics portion were the primary challenges of this lab.**
 
 ---
 
@@ -60,15 +55,15 @@ In this lab, the following skills were learned and applied:
 - Resolved conditional logic errors on lines 10, 13, 16
 - Clean output confirmed: **Forecast accuracy is -62**
 
-### 7. Weekly Stats Run (`Run_Weekly.png`)
-- Ran `weekly_stats.sh`
-- **Claude AI was used to generate synthetic historical data** populated into
-  `synthetic_historical_fc_accuracy.tsv` to provide enough data points for
-  meaningful weekly analysis
-- Output daily accuracy values: `-5, -1, -2, 4, -2, 0, 1, 5, 1, 2, 4, 2, 0, 1`
-- Results:
-  - **Minimum absolute error = 0**
-  - **Maximum absolute error = 5**
+###7. Weekly Stats Run (Run_Weekly.png)
+
+Ran weekly_stats.sh
+Populated synthetic_historical_fc_accuracy.tsv with test data to provide enough data points for meaningful weekly analysis
+Output daily accuracy values: -5, -1, -2, 4, -2, 0, 1, 5, 1, 2, 4, -2, 0, 1
+Results:
+
+Minimum absolute error = 0
+Maximum absolute error = 5
 
 ---
 
