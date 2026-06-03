@@ -13,7 +13,7 @@ IBM Hands-On Linux course.
 - Can be scheduled with crontab to run automatically every 24 hours
 
 ## Usage 
-```
+See the full script: [backup.sh](backup.sh)
 
 ## Proof of Outcomes
 
