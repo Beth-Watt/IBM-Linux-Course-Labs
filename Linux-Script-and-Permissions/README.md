@@ -15,6 +15,7 @@ felt familiar going in.
 The script `greetnew.sh` asks for a first and last name using `read` 
 to capture the input, then prints "Hello firstname lastname." to 
 the screen.
+- [Linux-Script-and-Permissions-1.sh](Linux-Script-and-Permissions-1.sh)
 
 ## Permissions
 The file started with `-rw-r--r--` permissions meaning only the owner 
