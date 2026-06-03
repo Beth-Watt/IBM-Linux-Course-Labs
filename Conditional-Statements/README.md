@@ -10,6 +10,8 @@ and responds based on what they type.
 ## The Script
 The script asks "Are you having fun learning Linux?" and waits for 
 a y or n answer. Depending on what you enter, it gives a different response.
+- [Bash-Scripting-1.sh](Bash-Scripting-1.sh)
+- [Bash-Scripting-2-addthen.sh](Bash-Scripting-2-addthen.sh)
 
 ## How It Went
 Ran into a syntax error on the first try — turns out I was missing 
