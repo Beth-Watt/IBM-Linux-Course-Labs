@@ -9,6 +9,8 @@ parses it into three separate arrays by column, and displays the results.
 The script pulls data from `arrays_table.csv`, splits it into three 
 columns using the `cut` command, and stores each column as an array. 
 It then displays the values from the first column.
+- [CSV-Bash-Script-1.sh](CSV-Bash-Script-1.sh)
+- [CSV-Bash-Script-2.sh](CSV-Bash-Script-2.sh)
 
 ## How It Went
 This was the most challenging lab so far. At some point the CSV file 
