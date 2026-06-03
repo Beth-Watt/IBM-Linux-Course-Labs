@@ -8,6 +8,9 @@ multiplication — then compares the results.
 ## The Script
 The script asks for two numbers, calculates the sum and product, 
 then uses conditional statements to compare which is greater.
+- [Mathematical-Script-1-errors.sh](Mathematical-Script-1-errors.sh)
+- [Mathematical-Script-2-error.sh](Mathematical-Script-2-error.sh)
+- [Mathematical-Script-3-errors-fixed.sh](Mathematical-Script-3-errors-fixed.sh)
 
 ## How It Went
 First run worked fine for the basic sum and product. Hit a typo on 
