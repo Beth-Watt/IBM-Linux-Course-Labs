@@ -1,7 +1,7 @@
 # Arrays and For Loops Lab
 
 ## What I Did
-This lab introduced arrays in bash scripting — a way to store and 
+This lab introduced arrays in bash scripting, a way to store and 
 access multiple values at once. The script reads data from a CSV file, 
 parses it into three separate arrays by column, and displays the results.
 
@@ -20,7 +20,7 @@ copy a clean version of the data into it, and start fresh.
 
 Once the file path issue was sorted out (the script was referencing 
 `./arrays_table.csv` but needed just `arrays_table.csv`), the script 
-ran and displayed the first column correctly — outputting `1 4 7 10`.
+ran and displayed the first column correctly, outputting `1 4 7 10`.
 
 Debugged file path and array syntax errors through research and iterative testing, developing a clearer understanding of how Bash handles both.
 
