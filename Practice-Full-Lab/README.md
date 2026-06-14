@@ -41,7 +41,8 @@ In this lab, the following skills were learned and applied:
   - Forecasted Temperature for noon tomorrow: **69 °F**
 - Appended data as a new row into `rx_poc.log`
 
-### 4. Historical Weather Log (`4_PracticeHistoricalWeather.png`)
+### 4. Historical Weather Log 
+[![4_PracticeHistoricalWeather.png](4_PracticeHistoricalWeather.png)](4_PracticeHistoricalWeather.png)
 - Created `historical_fc_accuracy.tsv` with columns:
   `year`, `month`, `day`, `obs_temp`, `fc_temp`, `accuracy`, `accuracy_range`
 - Created `fc_accuracy.sh`
