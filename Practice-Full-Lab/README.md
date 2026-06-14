@@ -48,7 +48,8 @@ In this lab, the following skills were learned and applied:
 - Created `fc_accuracy.sh`
 - Used `tail`, `head`, and `cut` to extract `yesterday_fc` from `rx_poc.log`
 
-### 5. Forecast Accuracy Calculation (`5_PracticeAccuracy.png`)
+### 5. Forecast Accuracy Calculation 
+[![5_PracticeAccuracy.png](5_PracticeAccuracy.png)](5_PracticeAccuracy.png)
 - Appended historical entry: `2026 04 24 62 64` to `rx_poc.log`
 - Computed: `accuracy=$(($yesterday_fc - $today_temp))` → **accuracy = -62**
 - Debugged and fixed unary operator errors in fc_accuracy.sh through iterative testing
