@@ -17,7 +17,7 @@ In this lab, the following skills were learned and applied:
 
 ---
 
-## Part 1: Practice Lab – Initial Setup & Data Pipeline
+## Part 1: Practice Lab - Initial Setup & Data Pipeline
 
 ### 1. Initial Weather Log (`1Practice_InitialWeatherLog.png`)
 - Created `rx_poc.log` using `touch` and made it executable with `chmod u+x`
