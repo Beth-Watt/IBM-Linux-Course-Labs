@@ -26,7 +26,8 @@ In this lab, the following skills were learned and applied:
 - Wrote header into the log: `echo "$header" > rx_poc.log`
 - Verified with `cat rx_poc.log`
 
-### 2. Download Raw Weather Data (`2Project_DL-Raw-Weather_Data.png`)
+### 2. Download Raw Weather Data
+[![2Project_DL-Raw-Weather_Data.png](2Project_DL-Raw-Weather_Data.png)](2Project_DL-Raw-Weather_Data.png)
 - Created and made executable `rx_poc.sh`
 - Set `city=Casablanca` and fetched live weather:
   `curl -s wttr.in/$city?T --output weather_report`
