@@ -2,8 +2,8 @@
 
 ## What I Did
 This lab had me write a bash script that takes two integers from the 
-user and performs mathematical calculations on them — addition and 
-multiplication — then compares the results.
+user and performs mathematical calculations on them (addition and 
+multiplication) then compares the results.
 
 ## The Script
 The script asks for two numbers, calculates the sum and product, 
@@ -14,7 +14,7 @@ then uses conditional statements to compare which is greater.
 
 ## How It Went
 First run worked fine for the basic sum and product. Hit a typo on 
-the first attempt — used `$nw` instead of `$n2` for the product 
+the first attempt, used `$nw` instead of `$n2` for the product 
 variable, and also had `products` instead of `product`. Fixed those 
 and it ran correctly.
 
@@ -24,11 +24,11 @@ error near `fi` on the first try but fixed it and the full script
 ran successfully. I needed to add the `then` statement after the `elif` but before `fi`.
 
 ## Files in this Folder
-- `Mathematial-Script-1-errors.sh` — first draft with typos
-- `Mathematical-Script-2-error.sh` — still errors, added comparison logic
-- `Mathematical-Script-3-errors-fixed.sh  ` — final working version
-- `MathematicalScriptRun1.png` — first successful run output
-- `MathematicalScriptRun2.png` — final run with comparison logic
+- `Mathematial-Script-1-errors.sh` - first draft with typos
+- `Mathematical-Script-2-error.sh` - still errors, added comparison logic
+- `Mathematical-Script-3-errors-fixed.sh  ` - final working version
+- `MathematicalScriptRun1.png` - first successful run output
+- `MathematicalScriptRun2.png` - final run with comparison logic
 
 ### First Successful Run
 ![Script Run 1](MathematicalScriptRun1.png)
