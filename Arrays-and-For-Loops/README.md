@@ -14,7 +14,7 @@ It then displays the values from the first column.
 
 ## How It Went
 This was the most challenging lab so far. At some point the CSV file 
-got corrupted — it looked like data had been accidentally written into 
+got corrupted and it looked like data had been accidentally written into 
 it instead of the script file. To fix it, I had to create a new CSV, 
 copy a clean version of the data into it, and start fresh.
 
@@ -25,9 +25,9 @@ ran and displayed the first column correctly — outputting `1 4 7 10`.
 Debugged file path and array syntax errors through research and iterative testing, developing a clearer understanding of how Bash handles both.
 
 ## Files in This Folder
-- `CSV-Bash-Script-1.sh` — first draft of arrays/CSV parsing script
-- `CSV-Bash-Script-2.sh` — updated version with corrected file path
--  `Run-CSV.png` — terminal output showing successful execution
+- `CSV-Bash-Script-1.sh` - first draft of arrays/CSV parsing script
+- `CSV-Bash-Script-2.sh` - updated version with corrected file path
+-  `Run-CSV.png` - terminal output showing successful execution
 
 ### Output
 ![Run CS Output](Run-CSV.png)
