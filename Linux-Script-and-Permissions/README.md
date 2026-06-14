@@ -6,7 +6,7 @@ permissions in Linux. The script prompts the user to enter their
 first and last name, then prints a greeting message.
 
 ## Background
-This was one of the more straightforward labs for me — I had already 
+This was one of the more straightforward labs for me. I had already 
 been introduced to Linux file permissions through the Google 
 Cybersecurity Professional Certificate, so the `chmod` commands 
 felt familiar going in.
@@ -24,11 +24,11 @@ execute permissions for the owner and others, ending up with
 `-rwxr--r-x` before running the script successfully.
 
 First attempt at `chmod` failed because there was no space between 
-`o+x` and the filename — a small but important syntax detail.
+`o+x` and the filename, a small but important syntax detail.
 
 ## What is in the Folder
-- `Linux-Script-and-Permissions-1.sh` — bash script that prompts for first and last name and prints a greeting
-- `2Script Permissions Lab.png` — terminal output showing chmod permissions and successful script execution
+- `Linux-Script-and-Permissions-1.sh` - bash script that prompts for first and last name and prints a greeting
+- `2Script Permissions Lab.png` - terminal output showing chmod permissions and successful script execution
 
 ### Permissions and Running the Script
 ![Script Permissions Lab](2%20Script%20Permissions%20Lab.png)
