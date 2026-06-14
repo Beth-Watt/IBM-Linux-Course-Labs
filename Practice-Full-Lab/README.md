@@ -61,7 +61,8 @@ In this lab, the following skills were learned and applied:
 - Resolved conditional logic errors on lines 10, 13, 16
 - Clean output confirmed: **Forecast accuracy is -62**
 
-### 7. Weekly Stats Run (`Run_Weekly.png`)
+### 7. Weekly Stats Run 
+[![Run_Weekly.png](Run_Weekly.png)](Run_Weekly.png)
 
 - Ran `weekly_stats.sh`
 - Populated `synthetic_historical_fc_accuracy.tsv` with test data to provide enough data points for meaningful weekly analysis
