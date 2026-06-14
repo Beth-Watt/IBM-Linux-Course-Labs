@@ -2,7 +2,7 @@
 
 ## What I Did
 Cron jobs let me schedule commands or scripts to run automatically at specific 
-times or intervals — basically the automation tool of Linux system administration.
+times or intervals, basically the automation tool of Linux system administration.
 This lab had me create a shell script and schedule it to run using crontab.
 
 ## The Script
