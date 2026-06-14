@@ -33,7 +33,8 @@ In this lab, the following skills were learned and applied:
   `curl -s wttr.in/$city?T --output weather_report`
 - Confirmed `weather_report` file was created
 
-### 3. Extract & Load Data (`3Practice_Extract___Load_Data.png`)
+### 3. Extract & Load Data
+[![3Practice_Extract & Load Data.png](3Practice_Extract%20%26%20Load%20Data.png)](3Practice_Extract%20%26%20Load%20Data.png)
 - Ran `bash rx_poc.sh`
 - Extracted:
   - Current Temperature of Casablanca: **64 °F**
