@@ -1,4 +1,4 @@
-# Practice Full Lab – Weather Forecasting & Bash Scripting
+# Practice Full Lab - Weather Forecasting & Bash Scripting
 
 ## Overview
 This full lab covers two parts: setting up a weather log from the command line, and iteratively building Bash scripts to extract live weather data, compute forecast accuracy, and calculate weekly statistics. All work was completed in the Theia IDE on a Linux terminal. Troubleshooting script errors and working through data limitations to complete the weekly statistics portion were the primary challenges of this lab.
@@ -66,10 +66,10 @@ In this lab, the following skills were learned and applied:
 
 ---
 
-## Part 2: Script Practice – Building rx_poc.sh Step by Step
+## Part 2: Script Practice - Building rx_poc.sh Step by Step
 
 ### 1. Extract Current Temperature (`1_ScriptPractice.png`)
-First version of `rx_poc.sh` — extracts observed temperature:
+First version of `rx_poc.sh` - extracts observed temperature:
 
 ```bash
 #!/bin/bash
@@ -96,7 +96,7 @@ month=$(TZ='Morocco/Casablanca' date +%m)
 year=$(TZ='Morocco/Casablanca' date +%Y)
 ```
 
-### 4. Full Script – Log the Record (`4_ScriptPractice.png`)
+### 4. Full Script - Log the Record (`4_ScriptPractice.png`)
 Assembled complete script with log append:
 
 ```bash
@@ -174,7 +174,7 @@ done
 minimum=${week_fc[1]}
 ```
 
-### 9. Weekly Stats – Part 2 (`8_5_ScriptWeekly.png`)
+### 9. Weekly Stats - Part 2 (`8_5_ScriptWeekly.png`)
 Finds minimum and maximum absolute error:
 
 ```bash
