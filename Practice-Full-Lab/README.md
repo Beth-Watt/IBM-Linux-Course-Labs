@@ -55,7 +55,8 @@ In this lab, the following skills were learned and applied:
 - Debugged and fixed unary operator errors in fc_accuracy.sh through iterative testing
 - Final output: **Forecast accuracy is -62**
 
-### 6. Head & Tail Verification (`Run_Head___Tail.png`)
+### 6. Head & Tail Verification 
+[![7_ScriptHead & Tail.png](7_ScriptHead%20%26%20Tail.png)](7_ScriptHead%20%26%20Tail.png)
 - Refined and re-ran `fc_accuracy.sh`
 - Resolved conditional logic errors on lines 10, 13, 16
 - Clean output confirmed: **Forecast accuracy is -62**
