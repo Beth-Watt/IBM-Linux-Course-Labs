@@ -75,7 +75,7 @@ In this lab, the following skills were learned and applied:
 
 ## Part 2: Script Practice - Building rx_poc.sh Step by Step
 
-### 1. Extract Current Temperature (`1_ScriptPractice.png`)
+### 1. Extract Current Temperature 
 First version of `rx_poc.sh` - extracts observed temperature:
 
 ```bash
@@ -85,7 +85,7 @@ obs_temp=$(curl -s wttr.in/$city?T | grep -m 1 ' .' | grep -Eo -e '-?[[:digit:]]
 echo "The current Temperature of $city: $obs_temp"
 ```
 
-### 2. Add Forecast Temperature (`2_ScriptPractice.png`)
+### 2. Add Forecast Temperature 
 Extended script to also extract tomorrow's forecast:
 
 ```bash
@@ -93,7 +93,7 @@ fc_temp=$(curl -s wttr.in/$city?T | head -23 | tail -1 | grep ' .' | cut -d 'C' 
 echo "The forecasted temperature for noon tomorrow for $city : $fc_temp C"
 ```
 
-### 3. Add Timezone & Date Variables (`3_ScriptrPractice.png`)
+### 3. Add Timezone & Date Variables 
 Added timezone and date extraction:
 
 ```bash
@@ -103,7 +103,7 @@ month=$(TZ='Morocco/Casablanca' date +%m)
 year=$(TZ='Morocco/Casablanca' date +%Y)
 ```
 
-### 4. Full Script - Log the Record (`4_ScriptPractice.png`)
+### 4. Full Script - Log the Record 
 Assembled complete script with log append:
 
 ```bash
@@ -111,7 +111,7 @@ record=$(echo -e "$year\t$month\t$day\t$obs_temp\t$fc_temp C")
 echo "$record">>rx_poc.log
 ```
 
-### 5. Script Schedule – Logging Section (`5_ScriptSchedule.png`)
+### 5. Script Schedule – Logging Section 
 Confirmed final logging block intended for scheduled (cron) execution:
 
 ```bash
@@ -120,13 +120,13 @@ record=$(echo -e "$year\t$month\t$day\t$obs_temp\t$fc_temp C")
 echo "$record">>rx_poc.log
 ```
 
-### 6. Historical Weather Setup (`6_ScriptHistoricalWeather.png`)
+### 6. Historical Weather Setup 
 - Created `historical_fc_accuracy.tsv`
 - Created `fc_accuracy.sh`
 - Extracted `yesterday_fc` from log using `tail -2 | head -1 | cut`
 - Log showed entries for **2026-04-25**: obs **64°F**, forecast **69°F**
 
-### 7. Forecast Accuracy Script (`7_ScriptHead___Tail.png`)
+### 7. Forecast Accuracy Script 
 Full `fc_accuracy.sh` with conditional accuracy ranges:
 
 ```bash
@@ -181,7 +181,7 @@ done
 minimum=${week_fc[1]}
 ```
 
-### 9. Weekly Stats - Part 2 (`8_5_ScriptWeekly.png`)
+### 9. Weekly Stats - Part 2 
 Finds minimum and maximum absolute error:
 
 ```bash
